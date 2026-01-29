@@ -1,2 +1,3 @@
-# UAS-Komputer-Grafik-23146079
-Tugas Uas Komputer Grafik
+# UAS-Komputer-Grafik
+Nama  :Reihan Aditya Kardova 
+Nim   :23146079
